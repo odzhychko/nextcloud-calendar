@@ -49,12 +49,12 @@ registration.unregister()
 
 ## Features & Roadmap
 
-| Version | Feature                                  | API                            | Calendar |
-| ------- | ---------------------------------------- | ------------------------------ | -------- |
-| 0.0.1-0 | Register extensions for the event editor | `registerEventEditorExtension` | –        |
-| 0.0.1-0 | Add own fields to the event editor       | `addField`                     | –        |
-| 0.0.1-0 | Update the event before it is saved      | `onSave`                       | –        |
-| 0.0.1-0 | Set properties of the event              | `setProperty`                  | –        |
+| Version     | Feature                                  | API                            | Calendar |
+| ----------- | ---------------------------------------- | ------------------------------ | -------- |
+| 0.0.1-dev.1 | Register extensions for the event editor | `registerEventEditorExtension` | –        |
+| 0.0.1-dev.1 | Add own fields to the event editor       | `addField`                     | –        |
+| 0.0.1-dev.1 | Update the event before it is saved      | `onSave`                       | –        |
+| 0.0.1-dev.1 | Set properties of the event              | `setProperty`                  | –        |
 
 - **Version**: first version of this library with the feature. Unreleased versions are planned.
 - **Calendar**: first Calendar app version that implements the feature, `–` if none yet.
